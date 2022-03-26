@@ -7,7 +7,7 @@ We forsee distributed computing, storage and broadcasting as necessary ability o
 
 Lifespan of such computers can be significantly extended up to 20-30 years thanks to renewable energy sources.
 
-## Desired properties of Venera One
+## Desired properties
 
 - The mechanism for heat utilization
 - Autonomous device with batteries and solar panels
