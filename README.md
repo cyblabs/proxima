@@ -10,7 +10,19 @@ Lifespan of such computers can be significantly extended up to 20-30 years thank
 ## Desired properties of Venera One
 
 - The mechanism for heat utilization
+- Autonomous device with batteries and solar panels
 - Work as a provider for "The Great Web"
 - Has open source interface for automated utilization of underutilized resources: CPU, GPU, RAM, SSD, NET
 - All component are universally available for purchasing
-- Has a transparent aquarium-like body for being desirable in interiors
+- Heat solved
+- Has a transparent body for being desirable in interiors
+- Weather station: wind Speed & direction, air Temperature, relative Humidity, barometric Pressure sensors
+
+## Core software
+- go-ethereum archive node
+- go-cyber node
+- cyberindex
+- ipfs node
+- derod and derominer
+- ipfs cluster
+- helium beacon
